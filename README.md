@@ -109,11 +109,12 @@ The method combines reproducible chemistry, automated manufacturing, and quantit
 
 If you use or adapt this workflow, please cite the corresponding abstract:
 
-> Gopalan, K., *et al.* “Automated fabrication of quantitative hydrogel MRI phantoms using stereolithography.” ISMRM 2025.
+> Wu, I., *et al.* “Accessible,  Reproducible and Quantitative Stereolithography Printed Hydrogel MR Phantoms
+” ISMRM 2025.
 
 ---
 
-### 📷 Figures (optional)
+### 📷 Figures
 Add figures or reference images (e.g., print test geometries, T₁/T₂ calibration curves) in a `/figures` directory and link them below:
 
 ```markdown
